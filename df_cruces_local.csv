@@ -1,0 +1,43 @@
+local_team,Cruce Detallado,Partido_Ganado_Local,Partido_Empatado_Local,Partido_Perdido_Local,Goles_Local,Goles_Visita
+Boca Juniors,Boca Juniors vs Estudiantes (LP),62,21,9,171,70
+Boca Juniors,Boca Juniors vs Independiente,42,23,25,140,107
+Boca Juniors,Boca Juniors vs Racing Club,43,24,18,159,93
+Boca Juniors,Boca Juniors vs River Plate,45,29,27,145,112
+Boca Juniors,Boca Juniors vs San Lorenzo,37,24,32,138,124
+Boca Juniors,Boca Juniors vs Velez,55,17,14,183,92
+Estudiantes (LP),Estudiantes (LP) vs Velez,34,25,22,132,97
+Estudiantes (LP),Estudiantes (LP) vs River Plate,26,22,34,96,128
+Estudiantes (LP),Estudiantes (LP) vs San Lorenzo,31,25,30,116,114
+Estudiantes (LP),Estudiantes (LP) vs Independiente,31,26,29,121,113
+Estudiantes (LP),Estudiantes (LP) vs Boca Juniors,33,21,40,124,142
+Estudiantes (LP),Estudiantes (LP) vs Racing Club,43,19,26,147,113
+Independiente,Independiente vs Boca Juniors,36,32,28,149,129
+Independiente,Independiente vs Estudiantes (LP),40,26,21,148,98
+Independiente,Independiente vs Racing Club,38,36,23,161,121
+Independiente,Independiente vs River Plate,34,28,22,110,96
+Independiente,Independiente vs San Lorenzo,37,26,27,135,103
+Independiente,Independiente vs Velez,31,29,29,126,115
+Racing Club,Racing Club vs San Lorenzo,42,23,22,158,108
+Racing Club,Racing Club vs Velez,37,29,18,140,95
+Racing Club,Racing Club vs River Plate,30,19,39,137,149
+Racing Club,Racing Club vs Independiente,30,30,36,132,138
+Racing Club,Racing Club vs Estudiantes (LP),42,24,21,139,100
+Racing Club,Racing Club vs Boca Juniors,32,17,36,110,110
+River Plate,River Plate vs Boca Juniors,38,35,28,148,130
+River Plate,River Plate vs Estudiantes (LP),59,15,12,183,84
+River Plate,River Plate vs Independiente,53,19,18,173,101
+River Plate,River Plate vs Racing Club,51,25,11,177,99
+River Plate,River Plate vs San Lorenzo,49,28,18,186,103
+River Plate,River Plate vs Velez,50,21,16,161,76
+San Lorenzo,San Lorenzo vs Velez,47,23,20,152,97
+San Lorenzo,San Lorenzo vs River Plate,35,35,23,148,128
+San Lorenzo,San Lorenzo vs Racing Club,37,23,21,137,96
+San Lorenzo,San Lorenzo vs Estudiantes (LP),41,26,19,159,94
+San Lorenzo,San Lorenzo vs Boca Juniors,43,25,28,143,119
+San Lorenzo,San Lorenzo vs Independiente,32,23,30,123,125
+Velez,Velez vs River Plate,34,23,37,134,138
+Velez,Velez vs Boca Juniors,28,25,30,117,113
+Velez,Velez vs Estudiantes (LP),41,24,20,143,89
+Velez,Velez vs Independiente,32,26,25,121,100
+Velez,Velez vs Racing Club,32,34,24,130,117
+Velez,Velez vs San Lorenzo,26,31,23,99,101
